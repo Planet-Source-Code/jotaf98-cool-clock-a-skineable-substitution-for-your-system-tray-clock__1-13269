@@ -1,0 +1,40 @@
+
+(Suggestions)
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Here are some suggestions for text skins. You can
+try changing some colors or the font/font size if
+you want. The standard background color of the
+clock is 192 192 192 (light gray), and the standard
+text color is 0 0 0 (black).
+
+
+(¯)	If you have "Age Of Empires II", you'll
+ ¯	love this one.
+		TextColor=98 49 0
+		BackgroundColor=253 235 200
+		TextFontName=Papyrus
+		TextSize=12
+
+(¯)	This is a good combination in case you have
+ ¯	the font "Kristen ITC". Try changing the
+	colors to your liking; I chose blue.
+		TextColor=0 0 255
+		BackgroundColor=192 192 192
+		TextFontName=Kristen ITC
+		TextSize=10
+
+(¯)	Another good one, specially if you have your
+ ¯	Windows98's settings to smooth fonts. Try
+	changing the colors too.
+		TextColor=0 0 255
+		BackgroundColor=192 192 192
+		TextFontName=Informal Roman
+		TextSize=14
+
+(¯)	This is for people who have the font "Brush
+ ¯	Script MT". It's very good too if you have
+	smooth fonts.
+		TextColor=0 0 255
+		BackgroundColor=192 192 192
+		TextFontName=Brush Script MT
+		TextSize=14
